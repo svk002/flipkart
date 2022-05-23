@@ -2,3 +2,6 @@ hello ssh test
 this file for b2
 this is for b1
 MERGING DIRECTLY ANOTHER BRANCH
+
+HAI CREATE NEW FILE 
+GO AHEAD 
